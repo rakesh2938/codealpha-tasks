@@ -1,0 +1,83 @@
+ Phishing Awareness Training 
+Project Overview;
+Phishing Awareness Training is a cybersecurity awareness project designed to educate users about phishing attacks, fake websites, and social engineering techniques used by cybercriminals. The goal of this project is to help individuals recognize threats, avoid common traps, and respond safely to suspicious communications.
+This repository contains training material suitable for **college assignments, corporate security awareness programs, and internship submissions.
+
+ Objectives;
+* Understand what phishing attacks are and how they work
+* Learn how to identify phishing emails and fake websites
+* Become aware of common social engineering tactics
+* Follow best practices to avoid phishing attacks
+* Engage learners through real-world examples and quizzes
+
+-->What is Phishing?
+Phishing is a cyberattack technique where attackers impersonate trusted entities to trick users into revealing sensitive information such as passwords, OTPs, or financial details.
+Types of Phishing Attacks
+* Email Phishing
+* Smishing (SMS phishing)
+* Vishing (Voice phishing)
+* Spear Phishing (targeted attacks)
+* Clone Phishing
+
+How to Recognize Phishing Emails;
+* Suspicious or spoofed sender email addresses
+* Urgent or threatening language
+* Unexpected links or attachments
+* Spelling and grammatical errors
+* Requests for confidential information
+
+Identifying Fake Websites;
+* Misspelled or misleading URLs
+* Absence of HTTPS or invalid certificates
+* Poor design or broken layouts
+* Fake login pages asking for credentials
+
+Social Engineering Techniques;
+Attackers often manipulate human psychology using:
+* Fear and urgency
+* Authority and trust
+* Curiosity and rewards
+* Impersonation of known contacts
+
+Real-World Example;
+A common phishing scenario involves a fake bank email warning about suspicious account activity. Victims are redirected to a fake website where their credentials are stolen, leading to financial loss or identity theft.
+
+Best Practices & Safety Tips;
+* Do not click on unknown or suspicious links
+* Verify sender identity before taking action
+* Never share passwords, OTPs, or personal details
+* Use strong and unique passwords
+* Enable Multi-Factor Authentication (MFA)
+* Keep software and browsers up to date
+
+What To Do If You Suspect Phishing;
+1. Do not click links or download attachments
+2. Report the message to your IT/Security team
+3. Delete the phishing message
+4. Change passwords if interaction occurred
+
+Interactive Quizzes;
+The training includes quiz-based slides to reinforce learning, such as:
+* Identifying phishing indicators
+* Choosing the correct response to suspicious emails
+
+These quizzes improve engagement and practical understanding.
+
+Use Cases;
+* College cybersecurity assignments
+* Corporate security awareness training
+* Internship project submissions
+* Beginner-friendly cybersecurity learning
+
+
+ Tools & Technologies;
+* Microsoft PowerPoint / Google Slides
+* Cybersecurity awareness concepts
+
+  
+Learning Outcomes;
+After completing this training, users will be able to:
+* Detect phishing attempts confidently
+* Understand attacker psychology
+* Apply safe online practices
+* Reduce the risk of cyber incidents
